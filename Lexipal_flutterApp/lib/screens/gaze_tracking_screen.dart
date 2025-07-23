@@ -267,6 +267,4 @@ class GazeTrackingScreenState extends State<GazeTrackingScreen> with WidgetsBind
   }
 }
 
-// is thie above code in copatible with python code.
 
-// what inputis this flutter code is expecting
