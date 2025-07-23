@@ -12,7 +12,7 @@ LexiPal is an assistive reading app designed for individuals with dyslexia. It o
 - 🧩 **Dyslexia-Friendly Design** – Uses fonts and UI optimized for readability
 
 ---
-]
+
 ###  Setup Instructions
 
 #### 1. Clone the Repository
