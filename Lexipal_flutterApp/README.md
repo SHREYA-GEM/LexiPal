@@ -1,4 +1,4 @@
-# hello_worrld
+# Lexipal
 
 A new Flutter project.
 
