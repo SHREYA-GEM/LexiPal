@@ -8,7 +8,7 @@ from inference_sdk import InferenceHTTPClient
 # Initialize the inference client
 CLIENT = InferenceHTTPClient(
     api_url="http://localhost:9001",
-    api_key="dF8tIaS5JLpKFeMUopCd"
+    api_key="ROBOFLOW_API_KEY"
 )
 
 # Global variables for smoothing
