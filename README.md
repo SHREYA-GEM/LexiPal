@@ -13,4 +13,11 @@ LexiPal is an assistive reading app designed for individuals with dyslexia. It o
 
 ---
 
+### 🔧 Setup Instructions
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/SHREYA-GEM/LexiPal.git
+cd LexiPal
 
