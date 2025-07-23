@@ -12,41 +12,28 @@ LexiPal is an assistive reading app designed for individuals with dyslexia. It o
 - 🧩 **Dyslexia-Friendly Design** – Uses fonts and UI optimized for readability
 
 ---
-✅ Setup Instructions
-1. Clone the Repository
-bash
-Copy code
-git clone https://github.com/SHREYA-GEM/LexiPal.git
-cd LexiPal
-2. Backend Setup
-bash
-Copy code
-cd backend
-pip install -r requirements.txt
-python server.py
-3. Flutter App Setup
-bash
-Copy code
-cd Lexipal_flutterapp
-flutter pub get
-flutter run
+]
 ###  Setup Instructions
 
 #### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/SHREYA-GEM/LexiPal.git
-cd LexiPal ...
+cd LexiPal
+```
 
 #### 2. Backend Setup
-```bash
 
+```bash
 cd backend
-pip install -r requirements.txt
 python server.py
+```
 
 #### 3. Flutter App Setup
+
+```bash
 cd Lexipal_flutterapp
 flutter pub get
 flutter run
+```
 
