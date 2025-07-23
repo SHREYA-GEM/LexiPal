@@ -13,6 +13,16 @@ LexiPal is an assistive reading app designed for individuals with dyslexia. It o
 
 ---
 
+###  Technologies Used
+
+- **Flutter** – Cross-platform mobile app development framework  
+- **Python** – Backend processing for gaze estimation and image handling  
+- **Roboflow Inference SDK** – Real-time eye tracking using a pre-trained gaze estimation model  
+- **Google ML Kit** – Optical Character Recognition (OCR) for extracting text from images  
+- **Flutter TTS & STT Plugins** – Text-to-Speech (TTS) and Speech-to-Text (STT) functionality for accessibility  
+- **WebSocket** – Enables real-time communication between the Flutter frontend and Python backend
+
+
 ###  Setup Instructions
 
 #### 1. Clone the Repository
@@ -36,4 +46,11 @@ cd Lexipal_flutterapp
 flutter pub get
 flutter run
 ```
+
+###  Contributors
+
+- [Sandra](https://github.com/Sandraanand)  
+- [Saniya Sebastian](https://github.com/SaniyaSebastian)  
+- [Shreya Gem Mathew](https://github.com/SHREYA-GEM)  
+- [Vinsu Susan Thomas](https://github.com/vinsu353)
 
